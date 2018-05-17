@@ -1,0 +1,107 @@
+body{
+  background: #f3f4f6;
+  min-width: 1000px;
+}
+
+
+.table-style{
+  /*float: left;*/
+  width: 70%;
+  height: 40px;
+  font-size: 25px;
+  /*text-align: left;*/
+  margin-left: 5px;
+  /*margin-top: 10px;*/
+  margin-bottom: 0px;
+}
+
+.table-style .search{
+  /*//height: 90px;*/
+  /*margin-top: 110px;*/
+  margin-bottom: 20px;
+  /*// border-bottom: 2px dotted #000;*/
+  width:100%;
+  background: #fff;
+}
+
+.table-style .search .top-line{
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.table-style .search .el-button--primary{
+  width: 15%;
+  margin-left: 15px;
+  color: #409eff;
+  background-color: rgba(64, 158, 255, 0.1);
+  border-color: #20a0ff;
+}
+
+.table-style .search .el-button--primary:hover{
+  color: #fff;
+  background-color: #20a0ff;
+  border-color: #20a0ff;
+}
+
+
+
+.table-style .search .top-line .el-input{
+  margin-left: 15px;
+  width:17%
+}
+
+.table-style .el-tree-out{
+  height: 600px;
+  background-color: #fff
+}
+
+.table-style .el-tree-out .el-tree{
+  margin: 10px;
+  height: 500px;
+  border: 1px #d8dce6 solid;
+  overflow: auto;
+}
+
+.table-style .el-tree-out .icon-style{
+  float:right;
+  margin:10px
+}
+.clear{
+  clear: both
+}
+
+
+.formRight{
+  position: fixed;
+  background: #fff;
+  padding:10px;
+  width: 20%;
+  height: 520px;
+  right: 50px;
+  top: 250px;
+  overflow: auto;
+  /*border-left: 2px dotted gray;*/
+}
+
+.el-table tr.current-row>td {
+  background: #409eff
+}
+
+.formRight .el-select {
+  width: 100%;
+}
+
+.formRight .el-date-editor.el-input {
+  width: 100%;
+}
+
+.clear{
+  clear:both
+}
+
+.el-table {
+  margin-top: 20px;
+}
+ .table-style .block{
+  margin-top: 10px;
+  margin-left: 30%
+}

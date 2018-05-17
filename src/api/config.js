@@ -1,0 +1,22 @@
+export const URL_GET = 'api/commonget'
+export const URL_POST = 'api/commonpost'
+export const URL_PUT = 'api/commonput'
+export const URL_DEL = 'api/commondel'
+export const URL_MUL = 'api/commonpostmul'
+
+export const TIKA_APP = 'tika_app'
+export const TIKA_WEB = 'tika_web'
+export const TIKA_GOODS = 'tika_goods'
+export const TIKA_AGENCY = 'tika_agency'
+export const TIKA_PAPER = 'tika_paper'
+export const TIKA_TIKU = 'tika_tiku'
+export const TIKA_SYSTEM = 'tika_system'
+export const TIKA_RBAC = 'tika_rbac'
+export const TIKA_VIP = 'tika_vip'
+export const TIKA_USER = 'tika_user'
+export const TIKA_NEWS = 'tika_news'
+export const TIKA_UPDATA = 'tika_updata'
+
+export const LOAD_URL= 'http://192.168.1.124'
+// export const LOAD_URL= 'http://39.106.149.24'
+
